@@ -1,8 +1,8 @@
 ### Hello World
 
 Hi! I'm Luke.
-- 💼 Aspiring Software Engineer.
-- 🎓 Final-Year Computer Science student.
+- 💼 Incoming Software Engineer.
+- 🎓 Recent Computer Science graduate.
 - 🛠️ I like working with a wide array of technologies; most recently I have been focused on learning Rust.
 - 🤝 Open to collaboration!
 
